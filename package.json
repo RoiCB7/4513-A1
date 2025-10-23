@@ -5,7 +5,7 @@
   "main": "f1-server.js",
   "scripts": {
     "start": "node f1-api.js",
-    "build": "npm rebuild sqlite3"
+    "build": "npm rebuild sqlite3",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
