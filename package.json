@@ -1,0 +1,17 @@
+{
+  "name": "assign1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "f1-server.js",
+  "scripts": {
+    "start": "node f1-api.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.76.1",
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.7"
+  }
+}
