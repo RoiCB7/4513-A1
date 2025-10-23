@@ -5,3 +5,6 @@
   Node JS,
   Express,
    and Render.com for hosting.
+
+  **Can run with**: 
+    node f1-api 
